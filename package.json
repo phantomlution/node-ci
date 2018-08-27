@@ -1,0 +1,25 @@
+{
+  "name": "node-ci",
+  "version": "1.0.0",
+  "description": "test for continuous integration for docker, k8s, istio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phantomlution/node-ci.git"
+  },
+  "keywords": [
+    "docker",
+    "k8s",
+    "istio"
+  ],
+  "author": "phantomlution",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phantomlution/node-ci/issues"
+  },
+  "homepage": "https://github.com/phantomlution/node-ci#readme"
+}
