@@ -5,6 +5,8 @@
 const http = require('http')
 const port = 3000
 
+console.log('test travis auto build')
+
 const requestHandler = (request, response) => {
   response.end('Hello world')
 }
